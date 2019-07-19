@@ -1,0 +1,25 @@
+{
+  "name": "moj_experiment",
+  "version": "1.0.0",
+  "description": "quick demo/experiment for MoJ (Ministry of Justice). It's a simple API solving simple problem.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "terminal-colors": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosheeck/moj_experiment.git"
+  },
+  "author": "Roman Pietrzak (aka yosh)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosheeck/moj_experiment/issues"
+  },
+  "homepage": "https://github.com/yosheeck/moj_experiment#readme"
+}
