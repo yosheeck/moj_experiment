@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mocha": "^6.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "should": "^13.2.3",
     "terminal-colors": "^0.1.4"
   },
