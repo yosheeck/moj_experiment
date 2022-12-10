@@ -4,7 +4,7 @@
   "description": "quick demo/experiment for MoJ (Ministry of Justice). It's a simple API solving simple problem.",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mocha": "^6.2.0",
     "node-fetch": "^2.6.0",
     "should": "^13.2.3",
